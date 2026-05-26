@@ -1,9 +1,8 @@
-<<<<<<< HEAD
+primera linea
+Añado mas contenido a mi fichero
+Seguimos avanzando en la practica con git
+Cuarta linea (editada desde IntelliJ)
+
 Esto es una nueva funcionalidad que estoy creando en una nueva rama y las otras lineas no tienen sentido ahora,
 IGR
 Modificado desde IntelliJ
-=======
-Esto es una nueva funcionalidad que estoy creando en una nueva rama y las otras lineas no tienen sentido ahora,
-IGR
-Modificado desde IntelliJ
->>>>>>> feature/IGR
